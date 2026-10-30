@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>Historic NeedIt Data</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Historic NeedIt Data</name>
+        <record_id>6c71dea09314d31068ac376efaba1021</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 19:31:34</sys_created_on>
+        <sys_id>6071dea09314d31068ac376efaba101f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Historic NeedIt Data</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_6071dea09314d31068ac376efaba101f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 19:31:34</sys_updated_on>
+    </sn_ihub_integration_instance>
+</record_update>
